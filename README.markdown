@@ -1,10 +1,10 @@
 # What is this?
 
-This is currated collection of styles and components to allow you to quickly create high quality webpages and apps.
+This is curated collection of styles and components to allow you to quickly create high quality webpages and apps.
 
 # Running the Styleguide
 
-## Prerequisits
+## Prerequisites
 
 One needs to have these installed first:
 
@@ -38,7 +38,7 @@ lightweight collection of base element styles, utilities, layout
 modules, and color styles designed for speed, performance, and
 scalability.
 
-We will modify it to suite our needs. The tradeoffs we are embraceing
+We will modify it to suit our needs. The tradeoffs we are embracing
 are:
 
 * Minimalistic OOCSS which means lots of class names per element
@@ -50,7 +50,7 @@ are:
 * All updates are versioned with git tags: a project will freeze to a
   git tag directly
 * All component updates are documented in the CHANGELOG by version
-* Assets are linked directly from a CDN with url including it's version
+* Assets are linked directly from a CDN with url including its version
 
 ## How do I use the compiled assets?
 
